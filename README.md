@@ -1,7 +1,7 @@
 # One-Dimensional Model for TRMLs
 This repository contains annotated notebooks that can be used to compute one-dimensional solutions of Turbulent Radiative Mixng Layers.
 
-Notebooks 1 & 2 allow users to specific their choices of $\mathcal{M}_{\rm rel}$, $\chi$, $\tau$, h, $f_{\nu}$, and $Pr$ and compute a corresponding solution using either the cosine vx or the cosine x-momentum profile setup, respectively. 
+Notebooks 1 & 2 allow users to specific their choices of $\mathcal{M}\_{\rm rel}$, $\chi$, $\tau$, h, $f_{\nu}$, and $Pr$ and compute a corresponding solution using either the cosine vx or the cosine x-momentum profile setup, respectively. 
 
 Notebooks 3 & 4 allow users to specific their choices of $\mathcal{M}_{\rm rel}$, $\chi$, $\tau$ and computes the corresponding $f_{\nu}$ and $Pr$ that satisfies energy conservation ($\mathcal{H}_visc = 0.5 \dot m \mathcal{M}_{\rm rel}^2$). (again, using either the cosine vx or the cosine x-momentum profile setup, respectively)
 
